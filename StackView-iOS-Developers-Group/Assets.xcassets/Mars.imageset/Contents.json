@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "Mars.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "launch-screen-1334x750.png",
       "scale" : "2x"
     },
     {

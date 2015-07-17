@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB1D0574-E21D-46CE-91D9-4F23DBAF5030</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6ADA4D8C10C8D5111914CDFA41C46D7E4ABF47A2</key>
+		<string>https://github.com/Mbaize/StackViewDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StackView-iOS-Developers-Group.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6ADA4D8C10C8D5111914CDFA41C46D7E4ABF47A2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Mbaize/StackViewDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6ADA4D8C10C8D5111914CDFA41C46D7E4ABF47A2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6ADA4D8C10C8D5111914CDFA41C46D7E4ABF47A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StackView-iOS-Developers-Group</string>
+		</dict>
+	</array>
+</dict>
+</plist>

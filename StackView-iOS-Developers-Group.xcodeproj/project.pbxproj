@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B18F7D891B556F89006A2C99 /* PracticeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B18F7D881B556F89006A2C99 /* PracticeViewController.m */; };
 		B1DCD1E21B541A8D00E148C0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B1DCD1E11B541A8D00E148C0 /* main.m */; };
 		B1DCD1E51B541A8D00E148C0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B1DCD1E41B541A8D00E148C0 /* AppDelegate.m */; };
 		B1DCD1E81B541A8D00E148C0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1DCD1E71B541A8D00E148C0 /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B18F7D871B556F89006A2C99 /* PracticeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PracticeViewController.h; sourceTree = "<group>"; };
+		B18F7D881B556F89006A2C99 /* PracticeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PracticeViewController.m; sourceTree = "<group>"; };
 		B1DCD1DD1B541A8D00E148C0 /* StackView-iOS-Developers-Group.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StackView-iOS-Developers-Group.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1DCD1E11B541A8D00E148C0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B1DCD1E31B541A8D00E148C0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				B1DCD1E41B541A8D00E148C0 /* AppDelegate.m */,
 				B1DCD1E61B541A8D00E148C0 /* ViewController.h */,
 				B1DCD1E71B541A8D00E148C0 /* ViewController.m */,
+				B18F7D871B556F89006A2C99 /* PracticeViewController.h */,
+				B18F7D881B556F89006A2C99 /* PracticeViewController.m */,
 				B1DCD1E91B541A8D00E148C0 /* Main.storyboard */,
 				B1DCD1EC1B541A8D00E148C0 /* Assets.xcassets */,
 				B1DCD1EE1B541A8D00E148C0 /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1DCD1E81B541A8D00E148C0 /* ViewController.m in Sources */,
+				B18F7D891B556F89006A2C99 /* PracticeViewController.m in Sources */,
 				B1DCD1E51B541A8D00E148C0 /* AppDelegate.m in Sources */,
 				B1DCD1E21B541A8D00E148C0 /* main.m in Sources */,
 			);
@@ -298,6 +304,7 @@
 				B1DCD1F61B541A8D00E148C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
